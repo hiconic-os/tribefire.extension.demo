@@ -10,7 +10,6 @@
 
 tribefire-demo-cartridge/context/\.#webclasspath
 **/WEB-INF/Resources/*
-
 *.container.cfg.xml
-
 setup-tf.sh
+.gradle
