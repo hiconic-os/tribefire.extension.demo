@@ -27,7 +27,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         </license>
     </licenses>
 	<artifactId>demo-setup</artifactId>
-	<version>3.0.7</version>
+	<version>3.0.8</version>
 	<dependencies>
 		<!-- This provides standard tribefire core components (e.g. tribefire-services, tribefire-explorer) and it is environment aware,
 			meaning that different assets may be resolved dependent on the environment. -->

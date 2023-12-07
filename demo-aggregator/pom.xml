@@ -27,7 +27,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         </license>
     </licenses>
 	<artifactId>demo-aggregator</artifactId>
-	<version>3.0.6</version>
+	<version>3.0.7</version>
 	<dependencies>
 		<dependency>
 			<groupId>tribefire.extension.demo</groupId>
